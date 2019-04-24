@@ -7,14 +7,10 @@
 - 发布时，可动态配置CDN静态资源／切换新旧版本
 - 演示地址：[fast.demo.renren.io](http://fast.demo.renren.io) (账号密码：admin/admin)
 
-![demo-screenshot_01](https://github.com/daxiongYang/renren-fast-vue/blob/master/demo-screenshot/01.png)
-
-![demo-screenshot_02](https://github.com/daxiongYang/renren-fast-vue/blob/master/demo-screenshot/02.png)
-
-
 ## 说明文档
-项目开发、部署等说明都在[wiki](https://github.com/daxiongYang/renren-fast-vue/wiki)中。
 
-
-## 更新日志
-每个版本的详细更改都记录在[release notes](https://github.com/daxiongYang/renren-fast-vue/releases)中。
+ **前端部署**
+ - 本项目是前后端分离的，还需要部署前端，才能运行起来
+ - 前端下载地址：https://gitee.com/renrenio/renren-fast-vue
+ - 前端部署文档：https://gitee.com/renrenio/renren-fast-vue/wikis/Home
+ - 前端部署完毕，就可以访问项目了，账号：admin，密码：admin
